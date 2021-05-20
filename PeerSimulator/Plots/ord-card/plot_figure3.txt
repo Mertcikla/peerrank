@@ -1,0 +1,18 @@
+reset
+set terminal post eps color colortext
+set output 'E:\Dropbox\PeerSimulator\Plots\ord-card\figure3.eps'
+set xrange [ 0 : 100 ]
+set yrange [ 500 : 3500  ]
+set ylabel 'Spearman Footrule Distance' offset 1
+set xlabel 'lower bound of marks'
+plot 'E:\Dropbox\PeerSimulator\Plots\ord-card\fig3.dat' using 1:2 with linespoints lt 2  lw 2 ps 2 title columnheader(2), \
+'E:\Dropbox\PeerSimulator\Plots\ord-card\fig3.dat' using 1:3 with linespoints lt 3  lw 2 ps 2 title columnheader(3), \
+'E:\Dropbox\PeerSimulator\Plots\ord-card\fig3.dat' using 1:4 with linespoints lt 1  lw 2 ps 2 title columnheader(4), \
+'E:\Dropbox\PeerSimulator\Plots\ord-card\fig3.dat' using 1:5 with linespoints lt 5  lw 2 ps 2 title columnheader(5), \
+'E:\Dropbox\PeerSimulator\Plots\ord-card\fig3.dat' using 1:6 with linespoints lt 13  lw 2 ps 2 title columnheader(6), \
+'E:\Dropbox\PeerSimulator\Plots\ord-card\fig3.dat' using 1:7 with linespoints lt 7  lw 2 ps 2 title columnheader(7), \
+'E:\Dropbox\PeerSimulator\Plots\ord-card\fig3.dat' using 1:8 with linespoints lt 8  lw 2 ps 2 title columnheader(8), \
+'E:\Dropbox\PeerSimulator\Plots\ord-card\fig3.dat' using 1:9 with linespoints lt 9  lw 2 ps 2 title columnheader(9), \
+'E:\Dropbox\PeerSimulator\Plots\ord-card\fig3.dat' using 1:10 with linespoints lt 10  lw 2 ps 2 title columnheader(10), \
+'E:\Dropbox\PeerSimulator\Plots\ord-card\fig3.dat' using 1:11 with linespoints lt 11  lw 2 ps 2 title columnheader(11), \
+'E:\Dropbox\PeerSimulator\Plots\ord-card\fig3.dat' using 1:12 with linespoints lt 12  lw 2 ps 2 title columnheader(12)

@@ -1,0 +1,12 @@
+reset
+set title "class size = 100, class load = 100"
+binwidth=0.5
+max=13.
+min=-5.
+set xrange [min:max]
+bin(x,width)=width*floor(x/width)
+plot 'E:\Dropbox\PeerSimulator\data.dat' using (bin($1,binwidth)):(1.0) smooth freq with linespoints lc rgb"blue" title columnheader(1), \
+'' using (bin($2,binwidth)):(1.0) smooth freq with linespoints lc rgb"red" title columnheader(2),\
+'' using (bin($3,binwidth)):(1.0) smooth freq with linespoints lc rgb"orange" title columnheader(3),\
+'' using (bin($4,binwidth)):(1.0) smooth freq with linespoints lc rgb"purple" title columnheader(4),\
+'' using (bin($5,binwidth)):(1.0) smooth freq with linespoints lc rgb"black" title columnheader(5),\

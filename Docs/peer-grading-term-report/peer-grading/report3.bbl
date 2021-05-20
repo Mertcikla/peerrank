@@ -1,0 +1,62 @@
+\begin{thebibliography}{10}
+
+\bibitem{BT52}
+Ralph~Allan Bradley and Milton~E. Terry.
+\newblock Rank analysis of incomplete block designs.
+\newblock {\em Biometrika}, 39:324--345, 1952.
+
+\bibitem{Alfaros13}
+Luca de~Alfaro and Michael Shavlovsky.
+\newblock Crowdgrader: Crowdsourcing the evaluation of homework assignments.
+\newblock {\em CoRR}, abs/1308.5273, 2013.
+
+\bibitem{luce60}
+R..~Ducan Luce.
+\newblock {\em Individual Choice Behavior a Theoretical Analysis}.
+\newblock John Wiley, 1959.
+
+\bibitem{citeulike:7065887}
+C.~L. Mallows.
+\newblock Non-null ranking models. i.
+\newblock {\em Biometrika}, 44(1-2):114--130, June 1957.
+
+\bibitem{page1999pagerank}
+Lawrence Page, Sergey Brin, Rajeev Motwani, and Terry Winograd.
+\newblock The pagerank citation ranking: Bringing order to the web.
+\newblock 1999.
+
+\bibitem{PiechHCDNK13}
+Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong~B. Do, Andrew~Y. Ng, and
+  Daphne Koller.
+\newblock Tuned models of peer assessment in moocs.
+\newblock {\em CoRR}, abs/1307.2579, 2013.
+
+\bibitem{PL}
+R.~L. Plackett.
+\newblock The analysis of permutations.
+\newblock {\em Journal of the Royal Statistical Society. Series C (Applied
+  Statistics)}, 24(2):pp. 193--202, 1975.
+
+\bibitem{RamanJ14}
+Karthik Raman and Thorsten Joachims.
+\newblock Methods for ordinal peer grading.
+\newblock {\em CoRR}, abs/1404.3656, 2014.
+
+\bibitem{Shah13}
+Nihar~B. Shah, Joseph Bradley, Abhay Parekh, Martin~J. Wainwright, and Kannan
+  Ramchandran.
+\newblock A case for ordinal peer-evaluation in moocs.
+\newblock {\em Neural Information Processing Systems (NIPS): Workshop on Data
+  Driven Education}, 2013.
+
+\bibitem{thurstone1927method}
+Leon~L Thurstone.
+\newblock The method of paired comparisons for social values.
+\newblock {\em The Journal of Abnormal and Social Psychology}, 21(4):384, 1927.
+
+\bibitem{Walsh14a}
+Toby Walsh.
+\newblock The peerrank method for peer assessment.
+\newblock {\em CoRR}, abs/1405.7192, 2014.
+
+\end{thebibliography}

@@ -1,0 +1,221 @@
+2014-11-02 05:45:35,641   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:45:35,641   INFO   Reading Training Data:
+2014-11-02 05:45:35,651   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:45:35,651   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:45:35,651   INFO   Running MAL (ITER:1)
+2014-11-02 05:45:35,651   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:45:35,651   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:45:35,654   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:45:35,654   INFO   Finished SGD. Writing to Files
+2014-11-02 05:47:34,092   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:47:34,092   INFO   Reading Training Data:
+2014-11-02 05:47:34,102   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:47:34,102   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:47:34,102   INFO   Running MAL (ITER:1)
+2014-11-02 05:47:34,102   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:47:34,102   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:47:34,107   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:47:34,107   INFO   Finished SGD. Writing to Files
+2014-11-02 05:51:05,553   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:51:05,553   INFO   Reading Training Data:
+2014-11-02 05:51:05,565   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:51:05,565   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:51:05,565   INFO   Running MAL (ITER:1)
+2014-11-02 05:51:05,565   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:51:05,565   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:51:05,569   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:51:05,569   INFO   Finished SGD. Writing to Files
+2014-11-02 05:54:46,181   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:54:46,181   INFO   Reading Training Data:
+2014-11-02 05:54:46,193   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:54:46,193   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:54:46,194   INFO   Running MAL (ITER:1)
+2014-11-02 05:54:46,194   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:54:46,194   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:54:46,196   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:54:46,196   INFO   Finished SGD. Writing to Files
+2014-11-02 05:55:29,584   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:55:29,584   INFO   Reading Training Data:
+2014-11-02 05:55:29,596   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:55:29,596   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:55:29,596   INFO   Running MAL (ITER:1)
+2014-11-02 05:55:29,596   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:55:29,596   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:55:29,598   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:55:29,598   INFO   Finished SGD. Writing to Files
+2014-11-02 05:55:48,855   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:55:48,855   INFO   Reading Training Data:
+2014-11-02 05:55:48,865   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:55:48,865   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:55:48,865   INFO   Running MAL (ITER:1)
+2014-11-02 05:55:48,865   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:55:48,865   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:55:48,868   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:55:48,868   INFO   Finished SGD. Writing to Files
+2014-11-02 05:55:49,345   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:55:49,345   INFO   Reading Training Data:
+2014-11-02 05:55:49,358   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:55:49,358   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:55:49,358   INFO   Running MAL (ITER:1)
+2014-11-02 05:55:49,358   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:55:49,358   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:55:49,361   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:55:49,361   INFO   Finished SGD. Writing to Files
+2014-11-02 05:55:49,813   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:55:49,813   INFO   Reading Training Data:
+2014-11-02 05:55:49,826   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:55:49,826   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:55:49,826   INFO   Running MAL (ITER:1)
+2014-11-02 05:55:49,826   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:55:49,826   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:55:49,828   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:55:49,829   INFO   Finished SGD. Writing to Files
+2014-11-02 05:55:50,267   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:55:50,267   INFO   Reading Training Data:
+2014-11-02 05:55:50,279   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:55:50,279   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:55:50,279   INFO   Running MAL (ITER:1)
+2014-11-02 05:55:50,279   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:55:50,279   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:55:50,282   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:55:50,282   INFO   Finished SGD. Writing to Files
+2014-11-02 05:55:50,740   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:55:50,740   INFO   Reading Training Data:
+2014-11-02 05:55:50,750   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:55:50,750   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:55:50,750   INFO   Running MAL (ITER:1)
+2014-11-02 05:55:50,750   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:55:50,750   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:55:50,753   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:55:50,753   INFO   Finished SGD. Writing to Files
+2014-11-02 05:55:51,196   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:55:51,196   INFO   Reading Training Data:
+2014-11-02 05:55:51,204   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:55:51,206   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:55:51,206   INFO   Running MAL (ITER:1)
+2014-11-02 05:55:51,206   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:55:51,206   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:55:51,209   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:55:51,209   INFO   Finished SGD. Writing to Files
+2014-11-02 05:55:51,655   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:55:51,655   INFO   Reading Training Data:
+2014-11-02 05:55:51,667   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:55:51,667   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:55:51,667   INFO   Running MAL (ITER:1)
+2014-11-02 05:55:51,667   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:55:51,667   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:55:51,670   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:55:51,670   INFO   Finished SGD. Writing to Files
+2014-11-02 05:55:52,128   INFO   
+
+		STARTING TO PROCESS
+2014-11-02 05:55:52,128   INFO   Reading Training Data:
+2014-11-02 05:55:52,141   INFO   Found 1 queries and 100 examples.
+2014-11-02 05:55:52,142   INFO   Successfully Finished Reading Training Data:
+
+
+2014-11-02 05:55:52,142   INFO   Running MAL (ITER:1)
+2014-11-02 05:55:52,142   INFO   ---------
+		STARTING OVERALL SGD (USER+SCORES) STEP #1
+		---------
+
+2014-11-02 05:55:52,142   INFO   -----STARTING SGD (SCORES) STEP #1
+		-----
+2014-11-02 05:55:52,145   INFO   [TIME] SGD took (0) seconds
+2014-11-02 05:55:52,145   INFO   Finished SGD. Writing to Files
